@@ -1,4 +1,3 @@
-To update the dataset description for a version containing **39,298 rows**, here’s the revised text for your GitHub:
 
 ---
 
